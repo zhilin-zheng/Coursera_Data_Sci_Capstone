@@ -1,0 +1,3 @@
+## Introduction
+
+Many people would want to open a Sushi restaurant in Toronto. Indeed, when walking through the city Toronto, one can easily find many neighborhoods do not have Sushi restaurants yet. This appears to be a gap in the market. However, before opening a restaurant, we should consider some factors, for instance, the number of residents in the neighborhoods and residents' flavors. The residents' flavors could probably be driven by the neighborhood cultures. For example, many Asians could perfer to eat Sushi food. Overall, how to select a right neighborhood in Toronto to open a Sushi restaurant becomes an important business problem.
